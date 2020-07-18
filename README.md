@@ -1,7 +1,7 @@
 # Bank-Management-System
 This is a basic bank management system.
 
-Steps to run the program: 
+<h3>Steps to run the program:</h3> 
 <ol>
 <li> Create a database named oop1 </li>
 <li> Import the oop1.sql file into the database </li>
