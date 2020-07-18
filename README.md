@@ -10,13 +10,16 @@ Steps to run the program:
 </ol>
 
 Admin account
-
+<ul>
 <li>  Username: hafiz Password: hafiz </li>
+</ul>
 
 Employee account
-
+<ul>
 <li> Username: c001 Password: c001 </li>
+</ul>
 
 Customer account
-
+<ul>
 <li> Username: e001 Password: e001 </li>
+</ul>
