@@ -11,12 +11,12 @@ Steps to run the program:
 
 Admin account
 
-Username: admin Password: admin
+<li>  Username: hafiz Password: hafiz </li>
 
 Employee account
 
-Username: hello Password: hello
+<li> Username: c001 Password: c001 </li>
 
 Customer account
 
-Username: sazid Password: password
+<li> Username: e001 Password: e001 </li>
